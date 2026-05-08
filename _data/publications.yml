@@ -1,6 +1,6 @@
 main:
 
-  - title: BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models
+  - title: "BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models"
     authors: Y. Fang, <strong>H. Xu</strong>, J. Han, S. Ding, Y. Wang, Y. Wang, and X. Wang
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
