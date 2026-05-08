@@ -22,13 +22,6 @@ Beyond energy systems, I have also worked on AI agents for software debugging an
 {% include_relative _includes/publications.md %}
 
 
-# Publications
-
-- **BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models**  
-  Y. Fang, **H. Xu**, J. Han, S. Ding, Y. Wang, Y. Wang, and X. Wang.  
-  *International Conference on Machine Learning (ICML), 2026.*
-
-
 # Selected Projects
 
 ## Concurrency Debugging AI Agent
