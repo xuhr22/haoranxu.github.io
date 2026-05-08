@@ -31,4 +31,4 @@ I am investigating neural architecture search for biological foundation models o
 
 # CV
 
-My full CV is available [here](assets/files/CV-Haoran-Xu.pdf).
+My full CV is available [here](assets/files/CV-Haoran-Xu-0506.pdf).
