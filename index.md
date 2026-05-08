@@ -4,11 +4,12 @@ layout: homepage
 
 # About
 
-I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Michigan, advised by Prof. Ziyou Song.
+I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Michigan, Ann Arbor, where I will be advised by [Prof. Ziyou Song](https://ziyou.engin.umich.edu/).
 
 Before joining UMich, I am completing my B.S. in Electrical Engineering at Tsinghua University. My research interests lie broadly in energy storage systems, battery management systems, sustainable transportation, and grid integration. I am particularly interested in physics-based modeling, state estimation, optimal control, and data-driven methods for reliable and efficient energy systems.
 
-I also have research experience in AI agents for software debugging and neural architecture search for biological foundation models.
+Beyond energy systems, I have also worked on AI agents for software debugging and neural architecture search for biological foundation models. These experiences have shaped my broader interest in building reliable, data-driven, and intelligent engineering systems.
+
 
 # Research Interests
 
@@ -16,18 +17,31 @@ I also have research experience in AI agents for software debugging and neural a
 - **Sustainable Transportation:** battery management systems and thermal management for electrified vehicles.
 - **Grid Integration:** using energy storage to bridge transportation systems and renewable power grids.
 - **AI for Scientific and Engineering Systems:** LLM agents, neural architecture search, and data-driven modeling.
+- **AI for Engineering Systems:** LLM agents, neural architecture search, and data-driven modeling.
 
 {% include_relative _includes/publications.md %}
+
+
+# Publications
+
+- **BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models**  
+  Y. Fang, **H. Xu**, J. Han, S. Ding, Y. Wang, Y. Wang, and X. Wang.  
+  *International Conference on Machine Learning (ICML), 2026.*
+
 
 # Selected Projects
 
 ## Concurrency Debugging AI Agent
 
-I am developing an LLM-orchestrated debugging workflow for concurrency issues in distributed systems. This project focuses on hierarchical bug localization, repair suggestion generation, and action-level safety guardrails for autonomous debugging agents.
+I am working on an LLM-orchestrated debugging agent for concurrency issues in distributed systems, including races, deadlocks, and ordering violations. This project focuses on hierarchical bug localization, repair suggestion generation, and action-level safety guardrails for autonomous debugging agents.
+
+I am grateful to [Prof. Tianyi Zhang](https://tianyi-zhang.github.io/) and [Prof. Yongle Zhang](https://yonglezh-purdue.github.io/) at Purdue University for their guidance and support on this project.
 
 ## Neural Architecture Search for Single-Cell Foundation Models
 
-I am investigating neural architecture search for biological foundation models on single-cell sequencing data. This work explores CNN, LSTM, Mamba, Hyena, and Transformer-based models across multiple biological tasks.
+I worked on neural architecture search for biological foundation models on single-cell sequencing data. This project explores diverse neural architectures, including CNN, LSTM, Mamba, Hyena, and Transformer-based models, across multiple biological tasks.
+
+I am grateful to [Prof. Xuan Wang](https://xuanwang91.github.io/) at Virginia Tech for her guidance and support on this project.
 
 # CV
 
